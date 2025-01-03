@@ -2,28 +2,26 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Trial Algorithm" />
+		<Option title="HackstackCPP" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Trial Algorithm" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/HackstackCPP" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Trial Algorithm" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/HackstackCPP" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
-					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -39,17 +37,30 @@
 		<Unit filename="Backtracking/Backtracking2.cpp" />
 		<Unit filename="Backtracking/Backtracking3.cpp" />
 		<Unit filename="Backtracking/Backtracking4.cpp" />
+		<Unit filename="Backtracking/CapacitatedVehicleRouting.cpp" />
+		<Unit filename="Backtracking/CapacitatedVehicleRouting.inp" />
+		<Unit filename="Backtracking/CutMaterial.cpp" />
+		<Unit filename="Backtracking/CutMaterial.inp" />
 		<Unit filename="Backtracking/EscapeFromMaze.cpp" />
 		<Unit filename="Backtracking/EscapeFromMaze.inp" />
 		<Unit filename="Backtracking/FractionsOfANumber.cpp" />
 		<Unit filename="Backtracking/PermutationOfAString.cpp" />
 		<Unit filename="Backtracking/SubsetsOfAnArray.cpp" />
 		<Unit filename="Backtracking/TrueSumOfSubsets.cpp" />
+		<Unit filename="Dynamic Programming/CapacitatedVehicleRouting.cpp" />
+		<Unit filename="Dynamic Programming/CapacitatedVehicleRouting.inp" />
+		<Unit filename="Dynamic Programming/Inversion.cpp" />
+		<Unit filename="Dynamic Programming/JobSelectionAndPlanning.cpp" />
 		<Unit filename="Dynamic Programming/Knapsack0-1.cpp" />
 		<Unit filename="Dynamic Programming/Knapsack0-1.inp" />
 		<Unit filename="Dynamic Programming/LongestCommonSubsequence.cpp" />
+		<Unit filename="Dynamic Programming/MaxDistanceSubSequence.cpp" />
 		<Unit filename="Dynamic Programming/MaxPathSumOfARec.cpp" />
 		<Unit filename="Dynamic Programming/MaxPathSumOfARec.inp" />
+		<Unit filename="Dynamic Programming/ParallelJobExecution.cpp" />
+		<Unit filename="Dynamic Programming/TSP-LargeScale.cpp" />
+		<Unit filename="Dynamic Programming/TSP-LargeScale.inp" />
+		<Unit filename="Dynamic Programming/Warehouse.cpp" />
 		<Unit filename="Headers/MVector.h" />
 		<Unit filename="Hustack/JobSelectionAndPlanning.cpp" />
 		<Unit filename="Hustack/JobSelectionAndPlanning.inp" />
@@ -57,8 +68,8 @@
 		<Unit filename="Hustack/ParallelJobExecution.inp" />
 		<Unit filename="Hustack/WordFrequencyInText.cpp" />
 		<Unit filename="Hustack/WordFrequencyInText.inp" />
-		<Unit filename="Properties O&apos; Subsequences/TrueSumOfSubsequences.cpp" />
-		<Unit filename="Properties O&apos; Subsequences/TrueSumOfSubsequences.inp" />
-		<Extensions />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
