@@ -68,6 +68,10 @@
 		<Unit filename="Hustack/ParallelJobExecution.inp" />
 		<Unit filename="Hustack/WordFrequencyInText.cpp" />
 		<Unit filename="Hustack/WordFrequencyInText.inp" />
+		<Unit filename="Properties O&apos; Subsequences/GreatestSumSubsequences.cpp" />
+		<Unit filename="Properties O&apos; Subsequences/LongestIncreasingSubsequences.cpp" />
+		<Unit filename="Properties O&apos; Subsequences/TrueSumOfSubsequences.cpp" />
+		<Unit filename="Properties O&apos; Subsequences/TrueSumOfSubsequences.inp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
