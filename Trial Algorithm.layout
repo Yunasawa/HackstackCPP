@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Hustack\WordFrequencyInText.inp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\Backtracking3.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="401" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\Backtracking2.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="215" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Hustack\JobSelectionAndPlanning.inp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="89" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\AscendingSubsets.cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="401" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\SubsetsOfAnArray.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="408" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="Hustack\JobSelectionAndPlanning.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="867" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\EscapeFromMaze.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="705" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\Backtracking4.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1112" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Dynamic Programming\LongestCommonSubsequence.cpp" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="718" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="Dynamic Programming\MaxPathSumOfARec.inp" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="47" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\PermutationOfAString.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="460" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\EscapeFromMaze.inp" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="56" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Hustack\WordFrequencyInText.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1408" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\Backtracking1.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="93" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Hustack\ParallelJobExecution.inp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Dynamic Programming\Knapsack0-1.inp" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\FractionsOfANumber.cpp" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="540" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="Hustack\ParallelJobExecution.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="897" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Properties O&apos; Subsequences\TrueSumOfSubsequences.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="796" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="Properties O&apos; Subsequences\TrueSumOfSubsequences.inp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Headers\MVector.h" open="1" top="1" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="747" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Dynamic Programming\MaxPathSumOfARec.cpp" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1028" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="Backtracking\TrueSumOfSubsets.cpp" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="657" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Dynamic Programming\Knapsack0-1.cpp" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="471" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
